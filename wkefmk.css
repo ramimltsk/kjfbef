@@ -1,0 +1,217 @@
+body{
+    display: flex;
+    align-items: center;
+    justify-content: center;
+} 
+
+.logo{
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+    padding: 30px;
+}
+.mainimg{
+    height: 600px;
+}
+
+.main{
+    display: flex;
+    margin-top: 200px;
+    /* align-items: center; */
+    justify-content: space-evenly;
+    width: 100%;
+    
+}
+
+.main h1{
+    font-size: 60px;
+}
+
+.main p{
+    font-size: 20px;
+}
+
+.textmain{
+    margin-right: 100px;
+}
+
+.started{
+    padding: 15px;
+    padding-left: 60px;
+    padding-right: 60px;
+    background-color:hsl(322, 100%, 66%) ;
+    border-radius:50px ;
+    font-size: 15px;
+    color: white;
+    border: 0px;
+}
+
+.try{
+    padding: 15px;
+    padding-left: 60px;
+    padding-right: 60px;
+    border-radius:50px ;
+    font-size: 15px;
+    border: 0px;
+}
+.three{
+    margin-top: 100px;
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    gap: 50px;
+}
+
+.grow{
+    padding: 50px;
+    display: flex;
+    gap: 200px;
+    align-items: center;
+    box-shadow: 1px 1px 5px 1px gray;
+    border-radius: 20px;
+}
+.grow p{
+    font-size: 20px;
+}
+
+.grow h1{
+    font-size: 35px;
+}
+
+.growimg{
+    height: 400px;
+}
+
+.flowimg{
+    height: 330px;
+}
+
+.flowing{
+    padding: 50px;
+    display: flex;
+    gap: 200px;
+    align-items: center;
+    box-shadow: 1px 1px 5px 1px gray;
+    border-radius: 20px;
+}
+
+.flowing p{
+    font-size: 20px;
+}
+
+.flowing h1{
+    font-size: 35px;
+}
+
+.users{
+    padding: 50px;
+    display: flex;
+    gap: 200px;
+    align-items: center;
+    box-shadow: 1px 1px 5px 1px gray;
+    border-radius: 20px;
+}
+
+.usersimg{
+    height: 370px;
+}
+
+.users p{
+    font-size: 20px;
+}
+
+.users h1{
+    font-size: 35px;
+}
+
+.three p{
+    color:hsl(208, 11%, 55%) ;
+}
+.build-div{
+    width: 100%;
+    display: flex;
+    justify-content: center;
+}
+.build{
+    padding: 50px;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    flex-direction: column;
+    box-shadow: 1px 1px 5px 1px gray;
+    border-radius: 10px;
+    width: 750px;
+    height: 100px;
+   position: relative;
+   bottom: -110px;
+   z-index: 200;
+   background-color: azure;
+    margin-top: 300px;
+}
+
+.bc{
+    font-size: 35px;
+}
+
+.startedfree{
+    background-color: hsl(322, 100%, 66%);
+    padding: 20px;
+    padding-left: 70px;
+    padding-right: 70px;
+    border-radius: 50px;
+    border: 0px;
+}
+.everything{
+    width: 100%;
+}
+
+.bottom{
+    background-color: hsl(192, 100%, 9%);
+    padding: 100px;
+    width: 100%;
+    margin: 0;
+}
+
+.location{
+    display: flex;
+    align-items: center;
+    gap: 20px;
+}
+
+.hudd{
+    display: flex;
+    align-items: center;
+    justify-content: flex-start;
+    gap: 0;
+    
+}
+
+
+.location img{
+    margin-top: -40px;
+}
+
+.phone{
+    display: flex;
+    align-items: center;
+    gap: 10px;
+}
+
+.email{
+    display: flex;
+    align-items: center;
+    gap: 10px;
+}
+
+.bottom p{
+    color: white;
+}
+
+.socials{
+    
+}
+
+.bottom{
+    display: flex;
+    
+}
